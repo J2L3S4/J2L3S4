@@ -18,18 +18,6 @@
   <a href="https://www.youtube.com/watch?v=j5a0jTc9S10">
     <img src="https://img.shields.io/badge/YouTube cool video-333333?style=for-the-badge&logo=youtube&logoColor=red" />
   </a>
-</div>
-
- <hr/>
- 
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/J2S4/J2S4/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
