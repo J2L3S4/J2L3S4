@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+J2L3S4!;" />
 </h1>
 
-<h3 align="center">I don't use GitHub much, I don't know much about Programming/coding</h3>
+<h3 align="center">I don't use GitHub that much, I don't know much about Programming/coding</h3>
 
 <br/>
 
